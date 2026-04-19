@@ -9,6 +9,13 @@ LEXA is a premium, autonomous AI operating system and virtual assistant built in
 - **Modern UI**: Sleek, dark-mode user interface using CustomTkinter.
 - **Data Parsing**: Extract text from images and PDF files locally.
 
+## Screenshots
+*(Add your screenshots here by replacing the placeholder links!)*
+
+![LEXA UI Dashboard](assets/screenshot1.png)
+<br>
+![Voice Authentication](assets/screenshot2.png)
+
 ## Requirements
 `pip install pyttsx3 speechrecognition customtkinter Pillow pytesseract PyMuPDF sympy psutil requests`
 
