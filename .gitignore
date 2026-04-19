@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+chat_history.txt
+error.log
+uploaded_file_text.txt
+memory.json
+*.png
