@@ -10,11 +10,7 @@ LEXA is a premium, autonomous AI operating system and virtual assistant built in
 - **Data Parsing**: Extract text from images and PDF files locally.
 
 ## Screenshots
-*(Add your screenshots here by replacing the placeholder links!)*
-
-![LEXA UI Dashboard](assets/screenshot1.png)
-<br>
-![Voice Authentication](assets/screenshot2.png)
+<img width="1914" height="1022" alt="image" src="https://github.com/user-attachments/assets/d33cff9f-5731-4013-96fe-90cd0d0c590a" />
 
 ## Requirements
 `pip install pyttsx3 speechrecognition customtkinter Pillow pytesseract PyMuPDF sympy psutil requests`
